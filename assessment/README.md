@@ -97,6 +97,9 @@ Payload:
 
 ## To do:
 -- Management command for quick fill the db with test data
+
 -- Handle duplicates
+
 -- Tests
+
 -- Create logs for requests and responses
