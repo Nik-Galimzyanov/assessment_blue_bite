@@ -9,6 +9,7 @@ If the fact that i didn't use prepared for assignment "base project" will not be
 I didn't work with JsonField before, so it took some time to research. My initial idea was just to store every possible value in CharField, we have a few parts like that in my current company, but i wasn't sure if it's ok, so decided to try JsonField.
 
 I used pyenv for Python version management and virtual environment. JsonSchema to validate the JSON against the schema.
+Also i used Postman to test endpoints.
 
 Really wanted to add tests but since i felt that i ran out of time, decided not to implement it.
 
