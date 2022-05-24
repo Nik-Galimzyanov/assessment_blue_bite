@@ -1,6 +1,12 @@
+asgiref==3.5.2
+attrs==21.4.0pip
 Django==3.2.10
 django-extensions==3.1.4
 djangorestframework==3.11.2
 jsonschema==4.5.1
+psycopg==3.0.14
 psycopg2==2.9.3
+pyrsistent==0.18.1
+pytz==2022.1
+sqlparse==0.4.2
 Werkzeug==0.16.0
