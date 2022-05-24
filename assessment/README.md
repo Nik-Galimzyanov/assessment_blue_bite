@@ -97,6 +97,8 @@ Payload:
 
 
 ## To do:
+-- Type hints
+
 -- Management command for quick fill the db with test data
 
 -- Handle duplicates
